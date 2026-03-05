@@ -69,8 +69,8 @@
 
 
  #   使用方法
- ##克隆库
- -git clone 
+ -克隆库
+ -git clone git clone https://github.com/3086464786zxy/python_work.git
  
 
 ## 环境依赖

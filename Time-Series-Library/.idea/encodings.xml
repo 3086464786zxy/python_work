@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/results/long_term_forecast_test_1_Autoformer_custom_ftMS_sl96_ll48_pl24_dm256_nh8_el2_dl1_df2048_expand2_dc4_fc1_ebtimeF_dtTrue_test_0/pred.npy" charset="UTF-8" />
+  </component>
+</project>
